@@ -13,12 +13,13 @@ function Herosection() {
           <p className="text-[32px] font-normal mt-2 md:mt-5">
             Lorem Ipsum is simply dummy text of
             <br /> the printing and typesetting industry.
-            <br /> Lorem Ipsum has been the industry's standard
+            <br /> Lorem Ipsum has been the industry`&apos;`s standard
           </p>
           <button className="text-[28px] bg-black text-white p-1 md:p-3 px-0 md:px-12 mt-5 md:mt-10">
             Contact US
           </button>
         </div>
+        {/* Image Section */}
         <div>
           <Image
             src={"/images/image.png"}
